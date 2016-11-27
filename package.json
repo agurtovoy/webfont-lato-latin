@@ -1,0 +1,15 @@
+{
+  "name": "@nextspark/webfont-lato-latin",
+  "version": "0.0.1",
+  "description": "Lato font family (version 2.015, Latin-based languages only)",
+  "main": "index.less",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agurtovoy/webfont-lato-latin.git"
+  },
+  "license": "MIT AND OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/agurtovoy/webfont-lato-latin/issues"
+  },
+  "homepage": "https://github.com/agurtovoy/webfont-lato-latin#readme"
+}
